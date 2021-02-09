@@ -1,4 +1,11 @@
-# Historical Flavour Mod
+# Npyl's Version of Historical Flavour Mod
+
+On this version of the mod, the following additions have been made:
+
+### Regarding the focus tree of Greece:
+- Event of liberation of Cryptochristians after Liberation of Coastal Asia Minor and Pontus from Ottoman Empire.
+  (Thanks to this event, Greece's primary population raises by decreasing turkish and increasing greek pops in the liberated areas.  This is in accordance to the fact that there were crypto-christians (many of them greeks) in Asia Minor)
+
 Current Version: 1.27F Beta
 How to download:
 1. Click this link: https://github.com/SighPie/HFM/archive/Development.zip
