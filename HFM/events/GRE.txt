@@ -1,0 +1,462 @@
+country_event = {
+  id = 9006216
+  title = "Liberation of Crypto-Christians"
+  desc = "Crypto-Christians are reported to many parts of the Ottoman Balkans and Anatolia. They can pray to his God now. They are so glad with this situation." 
+  picture = "crypto-christianity"
+  fire_only_once = yes
+
+  trigger = {
+	tag = GRE
+	GRE = {
+		owns = 828	
+		owns = 858
+		owns = 859
+		owns = 860
+		owns = 861
+		owns = 862
+		owns = 863
+		owns = 864
+		owns = 865
+		owns = 867
+		owns = 869
+		owns = 870
+		owns = 871
+		owns = 872
+		owns = 879
+		owns = 880
+		owns = 881
+		owns = 882
+		owns = 883
+		owns = 884
+		owns = 888
+	}
+  }
+
+  mean_time_to_happen = { months = 1 }
+
+   option = {
+    name = "Liberty!"
+	prestige = 20
+	828 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	858 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	859 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	860 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	861 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	862 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	863 = { 
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.6
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.4
+
+
+			}
+
+		}
+	864 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	865 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	867 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	869 = { 
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.5
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.6
+			}
+
+		}
+	870 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	871 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	872 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+
+
+	879 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	880 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	881 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	882 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	883 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	884 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	888 = { 
+		
+		any_pop = {
+ 
+			limit = { is_culture_group = turko_semitic }
+ 
+			reduce_pop = 0.4
+
+
+			}
+
+		any_pop = {
+ 
+			limit = { is_culture_group = levantine }
+ 
+			militancy = -2
+			reduce_pop = 1.7
+			}
+
+		}
+	ai_chance = { factor = 1 }
+  }
+}
