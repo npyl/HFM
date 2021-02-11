@@ -436,4 +436,33 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+
+	#########################################################
+	#		Successful Asia Minor Campaign    	#
+	#########################################################
+	# The following chain of decisions is for establishing a#
+	# 	Greek sovereign state in Asia Minor and Pontus  #
+	#	after having successfully attached these 	#
+	#	territories.					#
+	#							#
+	# This decisions-program called 'Kallikratis' is to	#
+	#	ensure: greek control, undisputed territorial	#
+	#	gains (and with international support), 	#
+	#	industrial and economical advances		#
+	#							#
+	# Four decisions should strengthen our state: 		#
+	# 	1) Subsidies for encouraging greek families 	#
+	#		to bear children (greece & A. Minor)	#
+	#	2) Greek schools in Asia Minor to Encourage 	#
+	#		assimilation				#
+	#	3) Mutual Arrangement with Turkey to exchange	#
+	#		population & Loss of Core-rights	#
+	#		in all seaside territorries.		#
+	#	   Creation of a hot-zone of which full control #
+	#		by any of the two nations would mean 	#
+	#		immediate win of the war (if any).	#
+	#	4) Bonuses into industrial goods such as iron,	#
+	#		coal, and sulfur (by decision to adopt  #
+	#		substitutes as industrial goods)	#
+	#########################################################
 }
